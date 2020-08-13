@@ -1,55 +1,68 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "مركز براعم التحدي للرعاية النهارية بالجوف",
+        "paragraph": "مركزي براعم وفرسان التحدي للرعاية النهارية هم إحدى المشاريع التنموية التي تخدم حالات اضطراب التوحد و ذوي الإعاقة في منطقة الجوف بعدما لمس القائمين عليهم انعدام خدمات الرعاية والتأهيل لمختلف الحالات حيث تم تصميم برامجهم وخدماتهم واختيار فريق العمل وفق اعلى معايير الجودة ليتمكن المركزين من خدمة الحالات المتزايدة بجودة ونوعية بكل احترافية ومهنية حسب تطلعات اسر الحالات وإمكانات أبناءهم ضمن رؤية عصرية متطورة تتماشى مع رؤية حكومتنا الرشيدة 2030 م"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "بناء جيل متميز من اضطراب التوحد و ذوي الإعاقة قادر على الاعتماد على نفسه باستقلالية تامة نافعاً لدينه ووطنه."
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            " رعاية وتأهيل اضطراب التوحد و ذوي الإعاقة للوصول بهم على أقصى ماتستطيع قدراتهم",
+            "الاهتمام بـاضطراب التوحد و ذوي الإعاقة من جميع النواحي صحياً ونفسياً وفكرياً وسلوكياً و اجتماعيا لممارسة حياتهم الطبيعية بدون عقبات",
+            "توفير بيئة تربوية وتأهيلية حديثة وجاذبة ذات جوده عالية"
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "",
+            "text": "وجود عيادة قياس وتشخيص متخصصة تحتوي على فريق تشخيصي تكاملي شامل"
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "",
+            "text": "وجود كادر وظيفي متخصص ذوي خبرة وكفاءة عالية للتعامل مع اضطراب التوحد و ذوي الإعاقة"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "",
+            "text": "وجود صالة تأهيل حركي مجهزة بأحدث الوسائل والأجهزة والمعينات الحركية لتأهيل جميع الإعاقات الحركية.   "
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "",
+            "text": " توفر مساحات خضراء للعب الجماعي والترفيه للحالات"
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "",
+            "text": "توفر وسائل نقل مجهزة لحالات الإعاقة الحركية مزودة برافعات كهربائية تحت إشراف كوادر متخصصة."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "",
+            "text": "وجود فصول تأهيلية تدريبية مجهزة بتقنيات تتناسب مع حالات الإعاقة"
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "",
+            "text": "وجود وحدات متخصصة لعلاج النطق ضمن كادر وظيفي متخصص وبرامج علاجية عالية الجودة تحتوي على وحدات تدريب فردية وجماعية"
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "",
+            "text": " وجود أركان متخصصة للمهارات الاستقلالية لتعليم وتنمية مهارات الرعاية الشخصية والمهارات الاستقلالية للوصول بالحالة إلى أعلى مستوى من الاعتماد على الذات في المهارات الحياتية"
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "",
+            "text": " وجود قاعة متخصصة للتدريب والتهيئة المهنية"
         }
+
+        
 
 
     ],
@@ -114,23 +127,43 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "برنامج التدخل المبكر",
+            "text": " وهو خاص بالفئات  العمرية ما قبل6 سنوات"
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "برنامج الخدمات التأهيلية المساندة",
+            "text": ""
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "البرنامج التأهيلي التطوري",
+            "text": "يعني فيه الشريحة العمرية 6-12 يهدف لتدريب المهارات الاستقلالية وبرامج تطور اللغة والعلاج الحسي والحركي"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "برامج تأهيلية",
+            "text": "متخصصة للفئة من 12 وحتى 45 متضمنة مقاييس القلق والاكتئاب ."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "برامج دمج اجتماعي وفق خطة تطويرية",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "برامج ترفيهية تدريبية موجهه",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "برنامج الرعاية المبكرة للأطفال ذوي الإعاقة دون سن السادسة ",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "برنامج خدمات الإرشاد الأسري",
+            "text": ""
         }
     ]
 }
